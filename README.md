@@ -64,7 +64,7 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 <p align="center" >
     <i> More detail about my GitHub page</i>
     <p align="center">
-        <img align="left" alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=minhkhuong2404&show_icons=true&theme=vue-dark&show_icons=true" />
+        <img align="left" alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=minhkhuong2404&theme=vue&show_icons=true" />
     </p>
     <p align="center">
         <a href="http://hits.dwyl.com/minhkhuong2404/minhkhuong2404">
