@@ -68,12 +68,10 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 ### My recent commit :star2: 
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 ### My activity on GitHub :star2: 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 ### Most used language in Github :tada: 
