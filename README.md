@@ -79,7 +79,7 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 **🐱 My Github Data** 
 
-> 🏆 97 Contributions in the Year 2020
+> 🏆 100 Contributions in the Year 2020
  > 
 > 📦 31.8 kB Used in Github's Storage 
  > 
