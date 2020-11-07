@@ -64,27 +64,29 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 ### Coding stat :star2: 
 
-[![minhkhuong2404's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minhkhuong2404&theme=vue)](https://github.com/minhkhuong2404/github-readme-stats)
+[![minhkhuong2404's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minhkhuong2404&theme=gotham&hide_border=true)](https://github.com/minhkhuong2404/github-readme-stats)
 
 ### Most used language in Github :tada: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=vue)](https://github.com/minhkhuong2404/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=gotham&hide_border=true)](https://github.com/minhkhuong2404/github-readme-stats)
 
 <p align="center" >
     <i> More detail about my GitHub page</i>
     <p align="center">
-        <img align="left" alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=minhkhuong2404&theme=vue&show_icons=true" />
+        <img align="left" alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=minhkhuong2404&theme=gotham&show_icons=true&hide_border=true"/>
     </p>
     <p align="center">
-    :mega: :tada:
+    :mega:
         <a href="http://hits.dwyl.com/minhkhuong2404/minhkhuong2404">
             <img align="center" src="http://hits.dwyl.com/minhkhuong2404/minhkhuong2404.svg">
         </a>
+    :tada:
     </p>
     <p align="center">
-    :mega: :tada:
+    :mega:
         <a href="https://visitor-badge.glitch.me/badge?page_id=minhkhuong2404.visitor-badge">
             <img alt="visitor badge" align="center" src="https://visitor-badge.glitch.me/badge?page_id=minhkhuong2404.visitor-badge">
         </a>
+    :tada:
     </p>
 </p>
 
