@@ -14,4 +14,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: hoangvanthien/SIEM-Neptune@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.Recent_Activity }}
