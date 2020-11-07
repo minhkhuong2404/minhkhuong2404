@@ -62,17 +62,19 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 <summary>:zap: GitHub Stats</summary>
 
-### Coding stat :star2: 
+### My recent commit :star2: 
 
-[![minhkhuong2404's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minhkhuong2404&theme=vue&hide_border=true&text_color=669900)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ### Most used language in Github :tada: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=vue&hide_border=true&text_color=669900)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.minhkhuong2404.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=vue&hide_border=true&text_color=669900)](https://github.com/anuraghazra/github-readme-stats)
 
 ### More detail about my GitHub
 <p align="center" >
     <p align="center">
-        <img align="left" alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=minhkhuong2404&theme=vue&show_icons=true&text_color=669900&hide_border=true&icon_color=ff9900"/>
+        <img align="left" alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.minhkhuong2404.vercel.app/api?username=minhkhuong2404&theme=vue&show_icons=true&text_color=669900&hide_border=true&icon_color=ff9900"/>
     </p>
     <p align="center">
     :mega:
