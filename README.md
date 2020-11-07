@@ -8,11 +8,11 @@
 
 - 🔭 I just launched my first simple website using Django: [My First Website][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn more about website
 - ⚡ Fun fact: I love to listen to music and sing
-- :octocat:: Try to build and push more cool things on GitHub
-- :mortar_board:: Try to graduate in 2021
+- :octocat: Try to build and push more cool things on GitHub
+- :mortar_board: Try to graduate in 2021
+- :shipit: I also love sharing account that I can create
 
 ## My coding workspace :computer: :iphone:
 
@@ -48,7 +48,7 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 <br />
 
-### Reading Blogs :newspaper: 
+### Reading Blogs :newspaper:
 
 ![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
 ![Dev.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
@@ -62,12 +62,18 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 <summary>:zap: GitHub Stats</summary>
 
 <p align="center" >
+    <i> More detail about my GitHub page</i>
     <p align="center">
         <img align="left" alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=minhkhuong2404&show_icons=true&hide_border=true" />
     </p>
     <p align="center">
         <a href="http://hits.dwyl.com/minhkhuong2404/minhkhuong2404">
             <img align="center" src="http://hits.dwyl.com/minhkhuong2404/minhkhuong2404.svg">
+        </a>
+    </p>
+    <p align="center">
+        <a href="https://visitor-badge.glitch.me/badge?page_id=minhkhuong2404.visitor-badge">
+            <img alt="visitor badge" align="center" src="https://visitor-badge.glitch.me/badge?page_id=minhkhuong2404.visitor-badge">
         </a>
     </p>
 </p>
