@@ -132,11 +132,7 @@ No Activity Tracked This Week
 
 <!--END_SECTION:waka-->
 
-### Most used language in Github :tada: 
-
-[![Top Langs](https://github-readme-stats.minhkhuong2404.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=vue&hide_border=true&text_color=669900)](https://github.com/anuraghazra/github-readme-stats)
-
-### More detail about my GitHub
+### More detail about my GitHub :tada:
 
 <p align="center" style="display:block;">
 :mega:
@@ -155,9 +151,17 @@ No Activity Tracked This Week
 </p>
 
 <p align="center">
-        <img align="left" alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.minhkhuong2404.vercel.app/api?username=minhkhuong2404&theme=vue&show_icons=true&text_color=669900&hide_border=true&icon_color=ff9900"/>
+        <img alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.minhkhuong2404.vercel.app/api?username=minhkhuong2404&theme=vue&show_icons=true&text_color=669900&hide_border=true&icon_color=ff9900"/>
+        <img src="https://github-readme-stats.minhkhuong2404.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=vue&hide_border=true&text_color=669900&langs_count=8"/>
     
 </p>
+
+<hr />
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories! Thank you for visiting my Github ❤️
+
+</div>
 
 [website]: http://khuongfirstapp.herokuapp.com/
 [facebook]: https://www.facebook.com/khuong.luminh99/
