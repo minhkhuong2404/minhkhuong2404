@@ -62,6 +62,9 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 <summary>:zap: GitHub Stats</summary>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=minhkhuong2404&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### My recent commit :star2: 
 
 <!--START_SECTION:activity-->
@@ -69,6 +72,7 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 <!--END_SECTION:activity-->
 
 ### Most used language in Github :tada: 
+
 [![Top Langs](https://github-readme-stats.minhkhuong2404.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=vue&hide_border=true&text_color=669900)](https://github.com/anuraghazra/github-readme-stats)
 
 ### More detail about my GitHub
