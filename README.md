@@ -159,6 +159,11 @@ No Activity Tracked This Week
 <hr />
 <div align="center">
 
+![Visits Badge](https://badges.pufler.dev/visits/minhkhuong2404/minhkhuong2404?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square)
+[![Years Badge](https://badges.pufler.dev/years/minhkhuong2404)](https://badges.pufler.dev)
+
+![Profile last updated](https://img.shields.io/github/last-commit/minhkhuong2404/minhkhuong2404/master?label=Last%20updated&style=flat)
+
 ### Show some ❤️ by starring some of the repositories! Thank you for visiting my Github ❤️
 
 </div>
