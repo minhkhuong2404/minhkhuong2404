@@ -1,4 +1,6 @@
-### Hi there, I'm Khuong - aka [khuongmi][facebook] 👋
+<div align="center">
+   <h1>Hi there, I'm Khuong - aka khuongmi<a href="https://hemant.codes"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
 ### About Me:
 
@@ -63,7 +65,7 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 <summary>:zap: GitHub Stats</summary>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=minhkhuong2404&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=minhkhuong2404&theme=flat&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### My recent commit :star2: 
 
