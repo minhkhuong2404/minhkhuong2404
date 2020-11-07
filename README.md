@@ -92,22 +92,22 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    47 commits     ██████░░░░░░░░░░░░░░░░░░░   24.23% 
-🌆 Daytime    70 commits     █████████░░░░░░░░░░░░░░░░   36.08% 
-🌃 Evening    45 commits     █████░░░░░░░░░░░░░░░░░░░░   23.2% 
-🌙 Night      32 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.49%
+🌞 Morning    47 commits     ██████░░░░░░░░░░░░░░░░░░░   24.48% 
+🌆 Daytime    68 commits     ████████░░░░░░░░░░░░░░░░░   35.42% 
+🌃 Evening    45 commits     █████░░░░░░░░░░░░░░░░░░░░   23.44% 
+🌙 Night      32 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
-Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
-Wednesday    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.56% 
-Thursday     49 commits     ██████░░░░░░░░░░░░░░░░░░░   25.26% 
-Friday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
-Saturday     45 commits     █████░░░░░░░░░░░░░░░░░░░░   23.2% 
-Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.7%
+Monday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
+Wednesday    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Thursday     49 commits     ██████░░░░░░░░░░░░░░░░░░░   25.52% 
+Friday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Saturday     43 commits     █████░░░░░░░░░░░░░░░░░░░░   22.4% 
+Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.77%
 
 ```
 
@@ -138,22 +138,25 @@ No Activity Tracked This Week
 
 ### More detail about my GitHub
 
-:mega: :tada:
-<br/>
-
-[![HitCount](http://hits.dwyl.com/minhkhuong2404/minhkhuong2404.svg)](http://hits.dwyl.com/minhkhuong2404/minhkhuong2404)
+<p align="center" style="display:block;">
+:mega:
+    <a href="http://hits.dwyl.com/minhkhuong2404/minhkhuong2404">
+        <img align="center" src="http://hits.dwyl.com/minhkhuong2404/minhkhuong2404.svg">
+    </a>
+:tada:
+</p>
 
 <p align="center" >
-    <p align="center">
+:mega:
+    <a href="https://visitor-badge.glitch.me/badge?page_id=minhkhuong2404.visitor-badge">
+        <img alt="visitor badge" align="center" src="https://visitor-badge.glitch.me/badge?page_id=minhkhuong2404.visitor-badge">
+    </a>
+:tada:
+</p>
+
+<p align="center">
         <img align="left" alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.minhkhuong2404.vercel.app/api?username=minhkhuong2404&theme=vue&show_icons=true&text_color=669900&hide_border=true&icon_color=ff9900"/>
-    </p>
-    <p align="center">
-    :mega:
-        <a href="https://visitor-badge.glitch.me/badge?page_id=minhkhuong2404.visitor-badge">
-            <img alt="visitor badge" align="center" src="https://visitor-badge.glitch.me/badge?page_id=minhkhuong2404.visitor-badge">
-        </a>
-    :tada:
-    </p>
+    
 </p>
 
 [website]: http://khuongfirstapp.herokuapp.com/
