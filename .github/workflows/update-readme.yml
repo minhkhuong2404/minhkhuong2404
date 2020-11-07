@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: hoangvanthien/SIEM-Neptune@master
+      - uses: minhkhuong2404/Python@master
         env:
           GITHUB_TOKEN: ${{ secrets.Recent_Activity }}
