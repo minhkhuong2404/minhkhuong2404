@@ -22,7 +22,7 @@
 
 ### Spotify Playing 🎧 :notes: :musical_note:
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Khuong Spotify Playing" width="350" />](https://open.spotify.com/user/3z3k0v453qbb71sxzcwjagspl)
+[![Spotify](https://novatorem.minhkhuong2404.vercel.app/api/spotify)](https://open.spotify.com/user/3z3k0v453qbb71sxzcwjagspl)
 
 ### Connect with me:
 
