@@ -19,7 +19,7 @@
 ![IoS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge)
 ![Apple](https://img.shields.io/badge/apple-macbook%20pro%202016-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)
 
-### Spotify Playing 🎧
+### Spotify Playing 🎧 :notes: :musical_note:
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Khuong Spotify Playing" width="350" />](https://open.spotify.com/user/3z3k0v453qbb71sxzcwjagspl)
 
@@ -61,17 +61,28 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 <summary>:zap: GitHub Stats</summary>
 
+### Coding stat :star2: 
+
+[![minhkhuong2404's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minhkhuong2404&theme=vue)](https://github.com/minhkhuong2404/github-readme-stats)
+
+<br />
+
+### Most used language in Github :tada: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=vue)](https://github.com/minhkhuong2404/github-readme-stats)
+
 <p align="center" >
     <i> More detail about my GitHub page</i>
     <p align="center">
         <img align="left" alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=minhkhuong2404&theme=vue&show_icons=true" />
     </p>
     <p align="center">
+    :mega: :tada:
         <a href="http://hits.dwyl.com/minhkhuong2404/minhkhuong2404">
             <img align="center" src="http://hits.dwyl.com/minhkhuong2404/minhkhuong2404.svg">
         </a>
     </p>
     <p align="center">
+    :mega: :tada:
         <a href="https://visitor-badge.glitch.me/badge?page_id=minhkhuong2404.visitor-badge">
             <img alt="visitor badge" align="center" src="https://visitor-badge.glitch.me/badge?page_id=minhkhuong2404.visitor-badge">
         </a>
