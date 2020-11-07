@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luminhkhuong/)
 [![FaceBook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khuong.luminh99/)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:khuonglu1999@gmail.com?subject="Greeting")
 
 ## I'm a Student, Programmer!!!
 
@@ -10,6 +11,13 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn more about website
 - ⚡ Fun fact: I love to listen to music and sing
+- :octocat:: Try to build and push more cool things on GitHub
+- :mortar_board:: Try to graduate in 2021
+
+## My coding workspace
+
+![IoS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge)
+![Apple](https://img.shields.io/badge/apple-macbook%20pro%202016-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)
 
 ### Spotify Playing 🎧
 
@@ -26,26 +34,27 @@
 
 ### Languages and Tools:
 
+![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
+![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
 <br />
 <br />
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
+<summary>:zap: GitHub Stats</summary>
 
-<!--END_SECTION:activity-->
+<img align="left" alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=minhkhuong2404&show_icons=true&hide_border=true" />
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=minhkhuong2404&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: http://khuongfirstapp.herokuapp.com/
 [facebook]: https://www.facebook.com/khuong.luminh99/
