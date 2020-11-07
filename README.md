@@ -57,12 +57,20 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 <br />
 
----
+<hr>
 
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=minhkhuong2404&show_icons=true&hide_border=true" />
-
+<p align="center" >
+    <p align="center">
+        <img align="left" alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=minhkhuong2404&show_icons=true&hide_border=true" />
+    </p>
+    <p align="center">
+        <a href="http://hits.dwyl.com/minhkhuong2404/minhkhuong2404">
+            <img align="center" src="http://hits.dwyl.com/minhkhuong2404/minhkhuong2404.svg">
+        </a>
+    </p>
+</p>
 
 [website]: http://khuongfirstapp.herokuapp.com/
 [facebook]: https://www.facebook.com/khuong.luminh99/
