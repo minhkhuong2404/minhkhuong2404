@@ -68,6 +68,8 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 ### My recent commit :star2: 
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#9683](https://github.com/JetBrains/swot/pull/9683) in [JetBrains/swot](https://github.com/JetBrains/swot)
+<!--END_SECTION:activity-->
 
 ### My activity on GitHub :star2: 
 <!--START_SECTION:waka-->
