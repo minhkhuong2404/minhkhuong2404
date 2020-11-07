@@ -134,22 +134,6 @@ No Activity Tracked This Week
 
 ### More detail about my GitHub :tada:
 
-<p align="center" style="display:block;">
-:mega:
-    <a href="http://hits.dwyl.com/minhkhuong2404/minhkhuong2404">
-        <img align="center" src="http://hits.dwyl.com/minhkhuong2404/minhkhuong2404.svg">
-    </a>
-:tada:
-</p>
-
-<p align="center" >
-:mega:
-    <a href="https://visitor-badge.glitch.me/badge?page_id=minhkhuong2404.visitor-badge">
-        <img alt="visitor badge" align="center" src="https://visitor-badge.glitch.me/badge?page_id=minhkhuong2404.visitor-badge">
-    </a>
-:tada:
-</p>
-
 <p align="center">
         <img alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.minhkhuong2404.vercel.app/api?username=minhkhuong2404&theme=vue&show_icons=true&text_color=669900&hide_border=true&icon_color=ff9900"/>
         <img src="https://github-readme-stats.minhkhuong2404.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=vue&hide_border=true&text_color=669900&langs_count=8"/>
