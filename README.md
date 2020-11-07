@@ -75,7 +75,7 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 ### My activity on GitHub :star2: 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
 
 **🐱 My Github Data** 
 
