@@ -71,6 +71,11 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 <!--END_SECTION:activity-->
 
+### My activity on GitHub :star2: 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ### Most used language in Github :tada: 
 
 [![Top Langs](https://github-readme-stats.minhkhuong2404.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=vue&hide_border=true&text_color=669900)](https://github.com/anuraghazra/github-readme-stats)
