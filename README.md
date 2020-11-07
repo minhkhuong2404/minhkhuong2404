@@ -71,6 +71,61 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 ### My activity on GitHub :star2: 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 86 Contributions in the Year 2020
+ > 
+> 📦 31.7 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    47 commits     ██████░░░░░░░░░░░░░░░░░░░   24.74% 
+🌆 Daytime    66 commits     ████████░░░░░░░░░░░░░░░░░   34.74% 
+🌃 Evening    45 commits     ██████░░░░░░░░░░░░░░░░░░░   23.68% 
+🌙 Night      32 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.84%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
+Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.21% 
+Wednesday    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.95% 
+Thursday     49 commits     ██████░░░░░░░░░░░░░░░░░░░   25.79% 
+Friday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
+Saturday     41 commits     █████░░░░░░░░░░░░░░░░░░░░   21.58% 
+Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.84%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+**Timeline**
+
+![Chart not found](https://github.com/minhkhuong2404/minhkhuong2404/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ### Most used language in Github :tada: 
