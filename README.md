@@ -1,8 +1,9 @@
-### Hi there, I'm Khuong - aka [FlaViOuSz][website] 👋
+### Hi there, I'm Khuong - aka [khuongmi][facebook] 👋
+
+### About Me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luminhkhuong/)
 [![FaceBook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khuong.luminh99/)
-[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:khuonglu1999@gmail.com?subject="Greeting")
 
 ## I'm a Student, Programmer!!!
 
@@ -64,8 +65,6 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 ### Coding stat :star2: 
 
 [![minhkhuong2404's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minhkhuong2404&theme=vue)](https://github.com/minhkhuong2404/github-readme-stats)
-
-<br />
 
 ### Most used language in Github :tada: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=vue)](https://github.com/minhkhuong2404/github-readme-stats)
