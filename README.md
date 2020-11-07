@@ -137,16 +137,15 @@ No Activity Tracked This Week
 [![Top Langs](https://github-readme-stats.minhkhuong2404.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=vue&hide_border=true&text_color=669900)](https://github.com/anuraghazra/github-readme-stats)
 
 ### More detail about my GitHub
+
+:mega: :tada:
+<br/>
+
+[![HitCount](http://hits.dwyl.com/minhkhuong2404/minhkhuong2404.svg)](http://hits.dwyl.com/minhkhuong2404/minhkhuong2404)
+
 <p align="center" >
     <p align="center">
         <img align="left" alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.minhkhuong2404.vercel.app/api?username=minhkhuong2404&theme=vue&show_icons=true&text_color=669900&hide_border=true&icon_color=ff9900"/>
-    </p>
-    <p align="center">
-    :mega:
-        <a href="http://hits.dwyl.com/minhkhuong2404/minhkhuong2404">
-            <img align="center" src="http://hits.dwyl.com/minhkhuong2404/minhkhuong2404.svg">
-        </a>
-    :tada:
     </p>
     <p align="center">
     :mega:
