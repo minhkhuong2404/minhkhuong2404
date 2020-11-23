@@ -75,7 +75,7 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 ### My activity on GitHub :star2: 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My Github Data** 
 
@@ -118,13 +118,13 @@ Sunday       14 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   36 mins             █████████████████████████   100.0%
+Python                   31 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-PyCharm                  36 mins             █████████████████████████   100.0%
+PyCharm                  31 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.0%
+Mac                      31 mins             █████████████████████████   100.0%
 
 ```
 
