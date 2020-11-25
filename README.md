@@ -118,13 +118,13 @@ Sunday       14 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   31 mins             █████████████████████████   100.0%
+Python                   0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-PyCharm                  31 mins             █████████████████████████   100.0%
+PyCharm                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.0%
+Mac                      0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -142,7 +142,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/minhkhuong2404/minhkhuong2404/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/minhkhuong2404/minhkhuong2404/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
