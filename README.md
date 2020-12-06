@@ -85,9 +85,9 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories
+> 📜 17 Public Repositories 
  > 
-> 🔑 0 Private Repository 
+17 Private Repository 
  > 
 **I'm an Early 🐤** 
 
