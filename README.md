@@ -81,7 +81,7 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 > 🏆 118 Contributions in the Year 2020
  > 
-> 📦 172.0 kB Used in Github's Storage 
+> 📦 171.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -118,13 +118,16 @@ Sunday       14 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   20 mins             ██████████████░░░░░░░░░░░   57.26% 
+JSON                     13 mins             █████████░░░░░░░░░░░░░░░░   37.85% 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.89%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  22 mins             ███████████████░░░░░░░░░░   62.15% 
+VS Code                  13 mins             █████████░░░░░░░░░░░░░░░░   37.85%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      35 mins             █████████████████████████   100.0%
 
 ```
 
