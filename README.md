@@ -75,11 +75,11 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 ### My activity on GitHub :star2: 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 118 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 172.0 kB Used in Github's Storage 
  > 
