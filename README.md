@@ -118,13 +118,14 @@ Sunday       14 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     37 mins             ██████████████░░░░░░░░░░░   58.31% 
+Python                   26 mins             ██████████░░░░░░░░░░░░░░░   41.69%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 4 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 4 mins         █████████████████████████   100.0%
 
 ```
 
