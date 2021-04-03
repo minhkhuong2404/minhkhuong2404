@@ -81,7 +81,7 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 > 🏆 7 Contributions in the Year 2021
  > 
-> 📦 173.6 kB Used in Github's Storage 
+> 📦 207.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
