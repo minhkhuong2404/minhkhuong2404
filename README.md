@@ -98,6 +98,7 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 ![Profile last updated](https://img.shields.io/github/last-commit/minhkhuong2404/minhkhuong2404/master?label=Last%20updated&style=flat)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=minhkhuong2404) 
 
 ### Show some ❤️ by starring some of the repositories! Thank you for visiting my Github ❤️
 
