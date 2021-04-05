@@ -17,9 +17,9 @@
 - :mortar_board: Try to graduate in 2021
 - :shipit: I also love sharing account that I can create
 
-## [GitHub Stats Visualization](https://github.com/minhkhuong2404/github-stats)
+## GitHub Stats Visualization
 
-<a href="https://github.com/minhkhuong2404/github-stats">
+<a href="https://github.com/minhkhuong2404/minhkhuong2404">
 
 ![](https://github.com/minhkhuong2404/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/minhkhuong2404/github-stats/blob/master/generated/languages.svg)
