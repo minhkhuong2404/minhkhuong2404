@@ -75,8 +75,10 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 <summary>:zap: GitHub Stats</summary>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=minhkhuong2404&theme=flat&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=minhkhuong2404&theme=flat&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 ### More detail about my GitHub :tada:
 
@@ -89,10 +91,13 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 <hr />
 <div align="center">
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhkhuong2404)  
+
 ![Visits Badge](https://badges.pufler.dev/visits/minhkhuong2404/minhkhuong2404?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square)
 [![Years Badge](https://badges.pufler.dev/years/minhkhuong2404)](https://badges.pufler.dev)
 
 ![Profile last updated](https://img.shields.io/github/last-commit/minhkhuong2404/minhkhuong2404/master?label=Last%20updated&style=flat)
+
 
 ### Show some ❤️ by starring some of the repositories! Thank you for visiting my Github ❤️
 
