@@ -77,11 +77,6 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=minhkhuong2404&theme=flat&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### My recent commit :star2: 
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#9683](https://github.com/JetBrains/swot/pull/9683) in [JetBrains/swot](https://github.com/JetBrains/swot)
-<!--END_SECTION:activity-->
 
 ### My activity on GitHub :star2: 
 <!--START_SECTION:waka-->
