@@ -43,7 +43,8 @@
 [<img align="left" alt="Khuong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Khuong | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Khuong | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="Khuong | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" />][leetcode]  
+[<img align="left" alt="Khuong | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="Khuong | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" />][spotify] 
 <br />
 
 ### Languages and Tools:
@@ -112,3 +113,4 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 [linkedin]: https://www.linkedin.com/in/luminhkhuong/
 [hackerrank]: https://www.hackerrank.com/khuonglu19991?hr_r=1
 [leetcode]: https://leetcode.com/khuonglu1999/
+[spotify]: https://open.spotify.com/user/3z3k0v453qbb71sxzcwjagspl?si=Rln3DNmTQZqbQsIZ4iicUw
