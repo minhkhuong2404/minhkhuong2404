@@ -42,7 +42,7 @@
 [<img align="left" alt="Khuong | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Khuong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Khuong | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/khuonglu19991?hr_r=1)
+[<img align="left" alt="Khuong | Hackerrank" width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' />][hackerrank]
 <br />
 
 ### Languages and Tools:
@@ -109,3 +109,4 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 [youtube]: https://www.youtube.com/channel/UC962yCeNNxO3TUqffNo1VLw/
 [instagram]: https://www.instagram.com/mminhkkhuong/
 [linkedin]: https://www.linkedin.com/in/luminhkhuong/
+[hackerrank]: https://www.hackerrank.com/khuonglu19991?hr_r=1
