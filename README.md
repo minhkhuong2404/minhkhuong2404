@@ -78,15 +78,12 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=minhkhuong2404&theme=flat&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-# StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
 
 ### More detail about my GitHub :tada:
 
 <p align="center">
-        <img alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats.minhkhuong2404.vercel.app/api?username=minhkhuong2404&theme=vue&show_icons=true&text_color=669900&hide_border=true&icon_color=ff9900"/>
-        <img src="https://github-readme-stats.minhkhuong2404.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=vue&hide_border=true&text_color=669900&langs_count=8"/>
+        <img alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats-minhkhuong2404.vercel.app/api?username=minhkhuong2404&theme=vue&show_icons=true&text_color=669900&hide_border=true&icon_color=ff9900"/>
+        <img src="https://github-readme-stats-minhkhuong2404.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=vue&hide_border=true&text_color=669900&langs_count=8"/>
     
 </p>
 
