@@ -12,7 +12,7 @@
 
 - 🔭 I just launched my first simple website using Django: [My First Website][website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn more about website
+- 🥅 2021 Goals: Learn more about Backend stuffs
 - ⚡ Fun fact: I love to listen to music and sing
 - :octocat: Try to build and push more cool things on GitHub
 - :mortar_board: Try to graduate in 2021
