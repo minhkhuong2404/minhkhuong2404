@@ -15,7 +15,7 @@
 - 🥅 2021 Goals: Learn more about Backend stuffs
 - ⚡ Fun fact: I love to listen to music and sing
 - :octocat: Try to build and push more cool things on GitHub
-- :mortar_board: Try to graduate in 2021
+- :mortar_board: Try to build career in IT field
 - :shipit: I also love sharing account that I can create
 
 ## GitHub Stats Visualization
