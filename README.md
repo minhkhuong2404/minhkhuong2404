@@ -91,7 +91,13 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 <hr />
 
-<!--START_SECTION:activity-->
+## Recent Activity
+
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 <div align="center">
 
