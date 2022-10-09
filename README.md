@@ -90,6 +90,9 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 </p>
 
 <hr />
+
+<!--START_SECTION:activity-->
+
 <div align="center">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhkhuong2404)  
