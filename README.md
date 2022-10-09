@@ -94,9 +94,6 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhkhuong2404)  
 
-![Visits Badge](https://badges.pufler.dev/visits/minhkhuong2404/minhkhuong2404?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square)
-[![Years Badge](https://badges.pufler.dev/years/minhkhuong2404)](https://badges.pufler.dev)
-
 ![Profile last updated](https://img.shields.io/github/last-commit/minhkhuong2404/minhkhuong2404/master?label=Last%20updated&style=flat)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=minhkhuong2404) 
