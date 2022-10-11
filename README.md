@@ -96,15 +96,15 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)
-2. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)
-3. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)
-4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)
+1. ⬆️ Pushed 2 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)
+2. 🎉 Merged PR [#1](https://github.com/minhkhuong2404/minhkhuong2404/pull/1) in [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)
+3. ⬆️ Pushed 2 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)
+4. 🎉 Merged PR [#2](https://github.com/minhkhuong2404/minhkhuong2404/pull/2) in [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)
 5. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 11th, 2022, 2:01:30 PM
+Last Updated: Tuesday, October 11th, 2022, 2:54:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div align="center">
