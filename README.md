@@ -98,15 +98,15 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
-2. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/share-images](https://github.com/minhkhuong2404/share-images)
+1. ⭐ Starred [huggingface/transformers](https://github.com/huggingface/transformers)
+2. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
 3. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/share-images](https://github.com/minhkhuong2404/share-images)
-4. 📔 Created new repository [minhkhuong2404/share-images](https://github.com/minhkhuong2404/share-images)
+4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/share-images](https://github.com/minhkhuong2404/share-images)
 5. 📔 Created new repository [minhkhuong2404/share-images](https://github.com/minhkhuong2404/share-images)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 19th, 2023, 2:15:29 AM
+Last Updated: Friday, January 20th, 2023, 2:15:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div align="center">
