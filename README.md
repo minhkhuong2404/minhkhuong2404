@@ -100,13 +100,10 @@ This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [huggingface/transformers](https://github.com/huggingface/transformers)
 2. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
-3. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/share-images](https://github.com/minhkhuong2404/share-images)
-4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/share-images](https://github.com/minhkhuong2404/share-images)
-5. 📔 Created new repository [minhkhuong2404/share-images](https://github.com/minhkhuong2404/share-images)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 24th, 2023, 2:09:39 AM
+Last Updated: Wednesday, January 25th, 2023, 2:09:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div align="center">
