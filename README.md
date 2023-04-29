@@ -98,15 +98,15 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [techtanic/Discounted-Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller)
-2. ⭐ Starred [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)
-3. ⭐ Starred [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai)
-4. ⭐ Starred [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
-5. ⭐ Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
+1. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/notion-web](https://github.com/minhkhuong2404/notion-web)
+2. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/notion-web](https://github.com/minhkhuong2404/notion-web)
+3. 📔 Created new repository [minhkhuong2404/my-cv](https://github.com/minhkhuong2404/my-cv)
+4. 📔 Created new repository [minhkhuong2404/notion-web](https://github.com/minhkhuong2404/notion-web)
+5. 🔱 Forked [minhkhuong2404/howz.dev](https://github.com/minhkhuong2404/howz.dev) from [howznguyen/howz.dev](https://github.com/howznguyen/howz.dev)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 28th, 2023, 2:00:28 AM
+Last Updated: Saturday, April 29th, 2023, 1:59:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <div align="center">
