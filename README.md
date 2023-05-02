@@ -14,7 +14,7 @@
 
 ## I'm a Student, Programmer!!!
 
-- 🔭 I just launched my first simple website using Django: [My First Website][website]!
+- 🔭 I just launched my first simple website using Django: [My First Website](https://luminhkhuong.edu.vn/)!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn more about Backend stuffs
 - ⚡ Fun fact: I love to listen to music and sing
@@ -81,12 +81,12 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 <summary>:zap: GitHub Stats</summary>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=minhkhuong2404&theme=flat&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=minhkhuong2404&theme=nightowl&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### More detail about my GitHub :tada:
 
 <p align="center">
-        <img alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats-alpha-vert.vercel.app/api?username=minhkhuong2404&theme=vue&show_icons=true&text_color=669900&hide_border=true&icon_color=ff9900"/>
+        <img alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats-alpha-vert.vercel.app/api?username=minhkhuong2404&theme=nightowl&show_icons=true&text_color=669900&hide_border=true&icon_color=ff9900"/>
         <img src="https://github-readme-stats-alpha-vert.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=vue&hide_border=true&text_color=669900&langs_count=8"/>
     
 </p>
