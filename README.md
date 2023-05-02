@@ -85,7 +85,7 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 <summary>:zap: GitHub Stats</summary>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=minhkhuong2404&theme=nightowl&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=minhkhuong2404&theme=juicyfresh&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### More detail about my GitHub :tada:
 
