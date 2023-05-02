@@ -14,7 +14,7 @@
 
 ## I'm a Software Engineer!!! 👨‍💻👨‍💻👨‍💻
 
-- 🔭 I just launched my first simple website using Django: [My First Website](https://luminhkhuong.edu.vn/)!
+- 🔭 I just launched my first simple website using Nextjs & TypeScript: [My First Website](https://luminhkhuong.edu.vn/)!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Learn more about Backend stuffs
 - ⚡ Fun fact: I love to listen to music and sing
