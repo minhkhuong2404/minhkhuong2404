@@ -138,7 +138,7 @@
 &emsp;&ensp;![React](https://img.shields.io/badge/React-0088CC?style=flat&logo=react&logoColor=white)
 </p>
 
-### 👉Graphic Designing
+### 👉 Graphic Designing
 <p align="left">
   &emsp;  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
