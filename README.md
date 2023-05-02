@@ -16,7 +16,7 @@
 
 - 🔭 I just launched my first simple website using Django: [My First Website](https://luminhkhuong.edu.vn/)!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn more about Backend stuffs
+- 🥅 2023 Goals: Learn more about Backend stuffs
 - ⚡ Fun fact: I love to listen to music and sing
 - :octocat: Try to build and push more cool things on GitHub
 - :mortar_board: Try to build career in IT field
