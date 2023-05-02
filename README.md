@@ -86,8 +86,8 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 ### More detail about my GitHub :tada:
 
 <p align="center">
-        <img alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats-alpha-vert.vercel.app/api?username=minhkhuong2404&theme=nightowl&show_icons=true&text_color=669900&hide_border=true&icon_color=ff9900"/>
-        <img src="https://github-readme-stats-alpha-vert.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=vue&hide_border=true&text_color=669900&langs_count=8"/>
+        <img alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats-alpha-vert.vercel.app/api?username=minhkhuong2404&theme=nightowl&show_icons=true&hide_border=true"/>
+        <img src="https://github-readme-stats-alpha-vert.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=nightowl&hide_border=true&langs_count=8"/>
     
 </p>
 
