@@ -110,9 +110,9 @@ This is a list of my most recent activity on GitHub.
 Last Updated: Tuesday, May 2nd, 2023, 1:58:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-<div align="center">
-
 ### My contributions 🥰 🥰
+
+<div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=minhkhuong2404&theme=github&radius=10&hide_title=true)  
 
@@ -120,11 +120,17 @@ Last Updated: Tuesday, May 2nd, 2023, 1:58:24 AM
 ![](https://komarev.com/ghpvc/?username=minhkhuong2404&label=Profile+views&color=brightgreen)
 ![](https://img.shields.io/tokei/lines/github/minhkhuong2404/minhkhuong2404?color=brightgreen)
 
+</div>
+
+### Streak Stats 🔥🔥🔥
+
+<div align="center">
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=minhkhuong2404&theme=nightowl) 
-  
-### Show some ❤️ by starring some of the repositories! Thank you for visiting my Github ❤️
 
 </div>
+
+### Show some ❤️ by starring some of the repositories! Thank you for visiting my Github ❤️
 
 [website]: http://khuongfirstapp.herokuapp.com/
 [facebook]: https://www.facebook.com/khuong.luminh99/
