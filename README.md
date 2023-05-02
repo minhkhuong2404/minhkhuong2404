@@ -31,6 +31,10 @@
 
 </a>
 
+## Repositories
+
+[![Notion Web](https://github-readme-stats-alpha-vert.vercel.app/api/pin/?username=minhkhuong2404&repo=notion-web)](https://github.com/minhkhuong2404/notion-web)
+
 ## My coding workspace :computer: :iphone:
 
 ![IoS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge)
