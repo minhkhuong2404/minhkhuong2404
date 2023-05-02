@@ -24,16 +24,14 @@
 
 ## GitHub Stats Visualization 💁‍♂️💁‍♂️
 
-<a href="https://github.com/minhkhuong2404/minhkhuong2404">
-
-![](https://github.com/minhkhuong2404/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/minhkhuong2404/github-stats/blob/master/generated/languages.svg)
-
-</a>
+<p>
+        <img alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats-alpha-vert.vercel.app/api?username=minhkhuong2404&theme=nightowl&show_icons=true&hide_border=true"/>
+        <img src="https://github-readme-stats-alpha-vert.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=nightowl&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=codeForce"/>
+</p>
 
 ## Repositories ❤️‍🔥❤️‍🔥
 
-[![Notion Web](https://github-readme-stats-alpha-vert.vercel.app/api/pin/?username=minhkhuong2404&repo=notion-web)](https://github.com/minhkhuong2404/notion-web)
+[![Notion Web](https://github-readme-stats-alpha-vert.vercel.app/api/pin/?username=minhkhuong2404&repo=notion-web&theme=nightowl)](https://github.com/minhkhuong2404/notion-web)
 
 ## My coding workspace :computer: :iphone:
 
@@ -82,18 +80,10 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 <hr>
 
-<summary>:zap: GitHub Stats</summary>
+### <summary>:zap: GitHub Stats</summary>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=minhkhuong2404&theme=juicyfresh&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-### More detail about my GitHub :tada:
-
-<p align="center">
-        <img alt="minhkhuong2404's GitHub Stats" src="https://github-readme-stats-alpha-vert.vercel.app/api?username=minhkhuong2404&theme=nightowl&show_icons=true&hide_border=true"/>
-        <img src="https://github-readme-stats-alpha-vert.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=nightowl&hide_border=true&langs_count=8"/>
-    
-</p>
 
 <hr />
 
@@ -115,7 +105,9 @@ Last Updated: Tuesday, May 2nd, 2023, 1:58:24 AM
 
 <div align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhkhuong2404)  
+### My contributions 🥰 🥰
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=minhkhuong2404&theme=github&radius=10&hide_title=true)  
 
 ![Profile last updated](https://img.shields.io/github/last-commit/minhkhuong2404/minhkhuong2404/master?label=Last%20updated&style=flat)
 
