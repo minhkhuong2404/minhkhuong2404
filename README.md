@@ -110,9 +110,10 @@ Last Updated: Tuesday, May 2nd, 2023, 1:58:24 AM
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=minhkhuong2404&theme=github&radius=10&hide_title=true)  
 
 ![Profile last updated](https://img.shields.io/github/last-commit/minhkhuong2404/minhkhuong2404/master?label=Last%20updated&style=flat)
+![](https://komarev.com/ghpvc/?username=minhkhuong2404&label=Profile+views&color=brightgreen)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=minhkhuong2404) 
-
+  
 ### Show some ❤️ by starring some of the repositories! Thank you for visiting my Github ❤️
 
 </div>
