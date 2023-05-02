@@ -2,7 +2,7 @@
    <h1>Hi there, I'm Khuong - aka khuongmi<a href="https://hemant.codes"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-### About Me:
+### About Me: 👋👋
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 <div align="center">
@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luminhkhuong/)
 [![FaceBook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khuong.luminh99/)
 
-## I'm a Student, Programmer!!!
+## I'm a Software Engineer!!! 👨‍💻👨‍💻👨‍💻
 
 - 🔭 I just launched my first simple website using Django: [My First Website](https://luminhkhuong.edu.vn/)!
 - 🌱 I’m currently learning everything 🤣
@@ -22,7 +22,7 @@
 - :mortar_board: Try to build career in IT field
 - :shipit: I also love sharing account that I can create
 
-## GitHub Stats Visualization
+## GitHub Stats Visualization 💁‍♂️💁‍♂️
 
 <a href="https://github.com/minhkhuong2404/minhkhuong2404">
 
@@ -31,7 +31,7 @@
 
 </a>
 
-## Repositories
+## Repositories ❤️‍🔥❤️‍🔥
 
 [![Notion Web](https://github-readme-stats-alpha-vert.vercel.app/api/pin/?username=minhkhuong2404&repo=notion-web)](https://github.com/minhkhuong2404/notion-web)
 
@@ -44,7 +44,7 @@
 
 [![Spotify](https://novatorem.minhkhuong2404.vercel.app/api/spotify)](https://open.spotify.com/user/3z3k0v453qbb71sxzcwjagspl)
 
-### Connect with me:
+### Connect with me: ❤️❤️❤️
 
 [<img align="left" alt="Khuong | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Khuong | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -55,7 +55,7 @@
 [<img align="left" alt="Khuong | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" />][spotify] 
 <br />
 
-### Languages and Tools:
+### Languages and Tools: 🎉
 
 Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
@@ -97,7 +97,7 @@ Here are some tools that I familiar with :point_down: :point_down: :point_down:
 
 <hr />
 
-## Recent Activity
+## Recent Activity  ⚠️⚠️
 
 This is a list of my most recent activity on GitHub.
 
