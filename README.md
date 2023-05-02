@@ -29,6 +29,13 @@
         <img src="https://github-readme-stats-alpha-vert.vercel.app/api/top-langs/?username=minhkhuong2404&layout=compact&theme=nightowl&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=codeForce"/>
 </p>
 
+## More Detail Summary 🎉🎉
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhkhuong2404&theme=tokyonight)
+</br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minhkhuong2404&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhkhuong2404&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minhkhuong2404&theme=tokyonight&&utcOffset=7)
+
 ## Repositories ❤️‍🔥❤️‍🔥
 
 [![Notion Web](https://github-readme-stats-alpha-vert.vercel.app/api/pin/?username=minhkhuong2404&repo=notion-web&theme=nightowl)](https://github.com/minhkhuong2404/notion-web)
