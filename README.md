@@ -212,15 +212,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/notion-web](https://github.com/minhkhuong2404/notion-web)
-2. ⬆️ Pushed 2 commit(s) to [minhkhuong2404/notion-web](https://github.com/minhkhuong2404/notion-web)
-3. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/share-images](https://github.com/minhkhuong2404/share-images)
+1. ⭐ Starred [Nasller/LicenseServer](https://github.com/Nasller/LicenseServer)
+2. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/notion-web](https://github.com/minhkhuong2404/notion-web)
+3. ⬆️ Pushed 2 commit(s) to [minhkhuong2404/notion-web](https://github.com/minhkhuong2404/notion-web)
 4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/share-images](https://github.com/minhkhuong2404/share-images)
 5. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/share-images](https://github.com/minhkhuong2404/share-images)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 17th, 2023, 2:04:28 AM
+Last Updated: Sunday, June 18th, 2023, 2:22:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
