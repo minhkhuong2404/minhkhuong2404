@@ -212,15 +212,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link)
-2. ⭐ Starred [Nasller/LicenseServer](https://github.com/Nasller/LicenseServer)
-3. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/notion-web](https://github.com/minhkhuong2404/notion-web)
-4. ⬆️ Pushed 2 commit(s) to [minhkhuong2404/notion-web](https://github.com/minhkhuong2404/notion-web)
-5. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/share-images](https://github.com/minhkhuong2404/share-images)
+1. ⭐ Starred [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)
+2. ⭐ Starred [minhkhuong2404/notion-vietcetera](https://github.com/minhkhuong2404/notion-vietcetera)
+3. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/notion-vietcetera](https://github.com/minhkhuong2404/notion-vietcetera)
+4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/notion-vietcetera](https://github.com/minhkhuong2404/notion-vietcetera)
+5. ⬆️ Pushed 2 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 29th, 2023, 2:20:34 AM
+Last Updated: Friday, June 30th, 2023, 2:17:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
