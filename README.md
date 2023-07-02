@@ -20,7 +20,7 @@
 
 ## Dev.to card
 <div align="center">
-<a href="https://app.daily.dev/luminhkhuong"><img src="https://api.daily.dev/devcards/b636e31693104289b69b508b3b1de6dd.png?r=hqo" width="200" alt="Lữ Minh Khương's Dev Card"/></a>
+<a href="https://app.daily.dev/luminhkhuong"><img src="https://api.daily.dev/devcards/b636e31693104289b69b508b3b1de6dd.png?r=hqo" width="250" alt="Lữ Minh Khương's Dev Card"/></a>
 </div>
 
 ## GitHub Stats Visualization 💁‍♂️💁‍♂️
