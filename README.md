@@ -4,10 +4,6 @@
 
 ### About Me: 👋👋
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-<div align="center">
-<a href="https://app.daily.dev/luminhkhuong"><img src="https://api.daily.dev/devcards/b636e31693104289b69b508b3b1de6dd.png?r=hqo" width="400" alt="Lữ Minh Khương's Dev Card"/></a>
-</div>
               
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luminhkhuong/)
 [![FaceBook](https://img.shields.io/badge/facebook-%231877F2.svg?&logo=facebook&logoColor=white)](https://www.facebook.com/khuong.luminh99/)
@@ -21,6 +17,11 @@
 - :octocat: Try to build and push more cool things on GitHub
 - :mortar_board: Try to build career in IT field
 - :shipit: I also love sharing account that I can create
+
+## Dev.to card
+<div align="center">
+<a href="https://app.daily.dev/luminhkhuong"><img src="https://api.daily.dev/devcards/b636e31693104289b69b508b3b1de6dd.png?r=hqo" width="200" alt="Lữ Minh Khương's Dev Card"/></a>
+</div>
 
 ## GitHub Stats Visualization 💁‍♂️💁‍♂️
 
