@@ -217,11 +217,11 @@ This is a list of my most recent activity on GitHub.
 2. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/notion-vietcetera](https://github.com/minhkhuong2404/notion-vietcetera)
 3. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/notion-vietcetera](https://github.com/minhkhuong2404/notion-vietcetera)
 4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/notion-vietcetera](https://github.com/minhkhuong2404/notion-vietcetera)
-5. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/novatorem](https://github.com/minhkhuong2404/novatorem)
+5. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/notion-vietcetera](https://github.com/minhkhuong2404/notion-vietcetera)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 2nd, 2023, 2:32:32 AM
+Last Updated: Monday, July 3rd, 2023, 2:23:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
