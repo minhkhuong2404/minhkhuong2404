@@ -1,6 +1,25 @@
 <div align="center">
    <h1>Hi there, I'm Khuong - aka khuongmi<a href="https://hemant.codes"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
+<p align="left">
+  <a href="https://leetcode.com/khuonglu1999/">
+    <img src="https://cp-logo.vercel.app/leetcode/khuonglu1999" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/khuongminh">
+    <img src="https://raw.githubusercontent.com/minhkhuong2404/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a>
+  <a href="[https://stackoverflow.com/users/9215621/sudipto](https://stackoverflow.com/users/9215621/l%e1%bb%af-minh-kh%c6%b0%c6%a1ng)">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/9215621?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/minhkhuong2404?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/minhkhuong2404?color=green&logo=github">
+  </a>
+  <a href="https://github.com/minhkhuong2404/">
+    <img src="https://komarev.com/ghpvc/?username=minhkhuong2404" alt="visitors" />
+  </a>
+
+</p>
+
 
 ### About Me: 👋👋
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
@@ -30,8 +49,8 @@
 <img height="280em" src="https://raw.githubusercontent.com/minhkhuong2404/cf-stats/main/output/light_card.svg" />
 </p>
 
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
+![](https://raw.githubusercontent.com/minhkhuong2404/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/minhkhuong2404/cf-stats/main/output/rating.svg)
 
 ## GitHub Stats Visualization 💁‍♂️💁‍♂️
 
