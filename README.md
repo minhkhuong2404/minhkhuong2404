@@ -23,6 +23,13 @@
 <a href="https://app.daily.dev/luminhkhuong"><img src="https://api.daily.dev/devcards/b636e31693104289b69b508b3b1de6dd.png?r=hqo" width="250" alt="Lữ Minh Khương's Dev Card"/></a>
 </div>
 
+## Coding Stats
+![](https://raw.githubusercontent.com/minhkhuong2404/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/minhkhuong2404/cf-stats/main/output/light_card.svg)
+
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
+
 ## GitHub Stats Visualization 💁‍♂️💁‍♂️
 
 <p>
