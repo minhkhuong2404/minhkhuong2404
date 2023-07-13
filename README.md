@@ -261,7 +261,6 @@ Last Updated: Wednesday, July 12th, 2023, 2:23:18 AM
 
 ![Profile last updated](https://img.shields.io/github/last-commit/minhkhuong2404/minhkhuong2404/master?label=Last%20updated&style=flat)
 ![](https://komarev.com/ghpvc/?username=minhkhuong2404&label=Profile+views&color=brightgreen)
-![](https://img.shields.io/tokei/lines/github/minhkhuong2404/minhkhuong2404?color=brightgreen)
 
 </div>
 
