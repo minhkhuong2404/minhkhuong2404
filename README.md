@@ -26,7 +26,7 @@
 ## Coding Stats
 
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/khuonglu1999?theme=light&font=JetBrains%20Mono&ext=activity" />
+<img height="273em" src="https://leetcard.jacoblin.cool/khuonglu1999?theme=wtf&font=JetBrains%20Mono&ext=activity" />
 <img height="280em" src="https://raw.githubusercontent.com/minhkhuong2404/cf-stats/main/output/light_card.svg" />
 </p>
 
