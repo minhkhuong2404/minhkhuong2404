@@ -242,15 +242,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [V1.0](https://github.com/minhkhuong2404/notion-vietcetera/releases/tag/latest) in [minhkhuong2404/notion-vietcetera](https://github.com/minhkhuong2404/notion-vietcetera)
-2. ⭐ Starred [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)
-3. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)
+1. ⭐ Starred [phillipai/100-days-of-code-python](https://github.com/phillipai/100-days-of-code-python)
+2. ✌️ Released [V1.0](https://github.com/minhkhuong2404/notion-vietcetera/releases/tag/latest) in [minhkhuong2404/notion-vietcetera](https://github.com/minhkhuong2404/notion-vietcetera)
+3. ⭐ Starred [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)
 4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)
-5. ✌️ Released [V2.2](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller/releases/tag/v2.2) in [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)
+5. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 19th, 2023, 1:35:06 AM
+Last Updated: Sunday, August 20th, 2023, 1:39:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
