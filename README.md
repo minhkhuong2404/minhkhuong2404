@@ -72,8 +72,8 @@
 
 ## My coding workspace :computer: :iphone:
 
-![IoS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge)
-![Apple](https://img.shields.io/badge/apple-macbook%20pro%202016-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)
+![IoS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
+![Apple](https://img.shields.io/badge/apple-macbook%20pro%202021-%23999999.svg?&logo=apple&logoColor=white)
 
 ### Spotify Playing 🎧 :notes: :musical_note:
 
