@@ -257,7 +257,7 @@ Last Updated: Thursday, August 31st, 2023, 1:40:41 AM
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=minhkhuong2404&theme=github&radius=10&hide_title=true)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhkhuong2404&theme=github&radius=10&hide_title=true)  
 
 ![Profile last updated](https://img.shields.io/github/last-commit/minhkhuong2404/minhkhuong2404/master?label=Last%20updated&style=flat)
 ![](https://komarev.com/ghpvc/?username=minhkhuong2404&label=Profile+views&color=brightgreen)
