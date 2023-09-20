@@ -268,7 +268,7 @@ Last Updated: Wednesday, September 20th, 2023, 1:41:04 AM
 
 <div align="center">
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=minhkhuong2404&theme=nightowl) 
+[![GitHub Streak](https://github-readme-streak-stats-minhkhuong2404.vercel.app?user=minhkhuong2404&theme=nightowl)](https://git.io/streak-stats)
 
 </div>
 
