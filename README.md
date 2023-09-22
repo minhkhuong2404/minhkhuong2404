@@ -242,15 +242,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/github-activity-readme](https://github.com/minhkhuong2404/github-activity-readme)<br>
-2. 🔱 Forked [minhkhuong2404/github-readme-streak-stats](https://github.com/minhkhuong2404/github-readme-streak-stats) from [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)<br>
-3. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)<br>
-4. ⬆️ Pushed 47 commit(s) to [minhkhuong2404/github-readme-stats](https://github.com/minhkhuong2404/github-readme-stats)<br>
-5. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/udemy-cookie](https://github.com/minhkhuong2404/udemy-cookie)<br>
+1. 📔 Created new repository [minhkhuong2404/what-is-git](https://github.com/minhkhuong2404/what-is-git)<br>
+2. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/github-activity-readme](https://github.com/minhkhuong2404/github-activity-readme)<br>
+3. 🔱 Forked [minhkhuong2404/github-readme-streak-stats](https://github.com/minhkhuong2404/github-readme-streak-stats) from [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)<br>
+4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)<br>
+5. ⬆️ Pushed 47 commit(s) to [minhkhuong2404/github-readme-stats](https://github.com/minhkhuong2404/github-readme-stats)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 21st, 2023, 1:40:21 AM
+Last Updated: Friday, September 22nd, 2023, 1:41:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
