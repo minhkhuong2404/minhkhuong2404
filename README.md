@@ -242,15 +242,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hcodes/snowflakes](https://github.com/hcodes/snowflakes)<br>
-2. ⭐ Starred [githubnext/monaspace](https://github.com/githubnext/monaspace)<br>
-3. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)<br>
-4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
-5. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
+1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
+2. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
+3. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)<br>
+4. ⭐ Starred [hcodes/snowflakes](https://github.com/hcodes/snowflakes)<br>
+5. ⭐ Starred [githubnext/monaspace](https://github.com/githubnext/monaspace)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 14th, 2023, 1:47:56 AM
+Last Updated: Friday, December 15th, 2023, 1:51:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
