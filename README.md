@@ -246,11 +246,10 @@ This is a list of my most recent activity on GitHub.
 2. ⭐ Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)<br>
 3. ⭐ Starred [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>
 4. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
-5. ⭐ Starred [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 20th, 2024, 1:51:13 AM
+Last Updated: Tuesday, May 21st, 2024, 1:49:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
