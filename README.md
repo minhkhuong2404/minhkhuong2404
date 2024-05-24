@@ -245,11 +245,10 @@ This is a list of my most recent activity on GitHub.
 1. ⭐ Starred [evondev/vscode-custom](https://github.com/evondev/vscode-custom)<br>
 2. ⭐ Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)<br>
 3. ⭐ Starred [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>
-4. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 23rd, 2024, 1:50:41 AM
+Last Updated: Friday, May 24th, 2024, 1:51:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
