@@ -242,13 +242,14 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [evondev/vscode-custom](https://github.com/evondev/vscode-custom)<br>
-2. ⭐ Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)<br>
-3. ⭐ Starred [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>
+1. ⭐ Starred [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)<br>
+2. ⭐ Starred [evondev/vscode-custom](https://github.com/evondev/vscode-custom)<br>
+3. ⭐ Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)<br>
+4. ⭐ Starred [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 31st, 2024, 1:53:05 AM
+Last Updated: Saturday, June 1st, 2024, 1:56:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
