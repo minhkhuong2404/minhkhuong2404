@@ -242,15 +242,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
-2. 💬 Commented on [#8](https://github.com/blueagler/Grammarly-Unlock/issues/8#issuecomment-2158436360) in [blueagler/Grammarly-Unlock](https://github.com/blueagler/Grammarly-Unlock)<br>
-3. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)<br>
-4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)<br>
-5. ⭐ Starred [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)<br>
+1. ✌️ Released [V2.3](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller/releases/tag/v2.3) in [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
+2. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
+3. ✌️ Released [V2.3](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller/releases/tag/v2.3) in [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
+4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
+5. 💬 Commented on [#8](https://github.com/blueagler/Grammarly-Unlock/issues/8#issuecomment-2158436360) in [blueagler/Grammarly-Unlock](https://github.com/blueagler/Grammarly-Unlock)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 14th, 2024, 1:54:42 AM
+Last Updated: Saturday, June 15th, 2024, 1:53:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
