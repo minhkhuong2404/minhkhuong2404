@@ -242,15 +242,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
-2. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
-3. ✌️ Released [V2.3](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller/releases/tag/v2.3) in [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
-4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
-5. ✌️ Released [V2.3](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller/releases/tag/v2.3) in [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
+1. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)<br>
+2. ⭐ Starred [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)<br>
+3. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)<br>
+4. ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)<br>
+5. ⭐ Starred [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 6th, 2024, 1:52:59 AM
+Last Updated: Sunday, July 7th, 2024, 2:01:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
