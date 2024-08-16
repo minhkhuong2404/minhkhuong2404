@@ -242,15 +242,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tmsanghoclaptrinh/tmsang-hoc-thuat-toan](https://github.com/tmsanghoclaptrinh/tmsang-hoc-thuat-toan)<br>
-2. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)<br>
-3. ⭐ Starred [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)<br>
-4. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)<br>
-5. ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)<br>
+1. ⭐ Starred [minhkhuong2404/youtube_downloader](https://github.com/minhkhuong2404/youtube_downloader)<br>
+2. ⭐ Starred [tmsanghoclaptrinh/tmsang-hoc-thuat-toan](https://github.com/tmsanghoclaptrinh/tmsang-hoc-thuat-toan)<br>
+3. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)<br>
+4. ⭐ Starred [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)<br>
+5. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 15th, 2024, 1:53:28 AM
+Last Updated: Friday, August 16th, 2024, 1:59:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
