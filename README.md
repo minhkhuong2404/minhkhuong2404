@@ -2,9 +2,6 @@
    <h1>Hi there, I'm Khuong - aka khuongmi<a href="https://hemant.codes"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <p align="left">
-  <a href="https://leetcode.com/khuonglu1999/">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=khuonglu1999&theme=nightowl" alt="LeetCode Badges"/>
-  </a>
   <a href="https://codeforces.com/profile/khuongminh">
     <img src="https://raw.githubusercontent.com/minhkhuong2404/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
@@ -41,6 +38,10 @@
 <div align="center">
 <a href="https://app.daily.dev/luminhkhuong"><img src="https://api.daily.dev/devcards/v2/h76Dm7RmrwQziH2cd7bpL.png?type=wide&r=4wj" width="652" alt="Lữ Minh Khương's Dev Card"/></a>
 </div>
+
+## LeetCode Problems Solved
+![Khuong's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/khuonglu1999?theme=dark&bgColor=282828)
+![Khuong's LeetCode Badge](https://luminhkhuong-leetcode-badge-showcase.vercel.app/api?username=khuonglu1999&theme=nightowl&animated=true")
 
 ## Coding Stats
 
