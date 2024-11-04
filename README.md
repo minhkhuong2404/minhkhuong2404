@@ -3,7 +3,7 @@
 </div>
 <p align="left">
   <a href="https://leetcode.com/khuonglu1999/">
-    <img src="https://cp-logo.vercel.app/leetcode/khuonglu1999" alt="Leet code rating" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=khuonglu1999&theme=nightowl" alt="LeetCode Badges"/>
   </a>
   <a href="https://codeforces.com/profile/khuongminh">
     <img src="https://raw.githubusercontent.com/minhkhuong2404/cf-stats/main/output/rating.svg" alt="Leet code rating" />
