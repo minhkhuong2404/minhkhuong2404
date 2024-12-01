@@ -243,15 +243,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [flutter/flutter](https://github.com/flutter/flutter)<br>
-2. ⬆️ Pushed 9 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
-3. ⭐ Starred [soimort/you-get](https://github.com/soimort/you-get)<br>
-4. 🎉 Merged PR [#9](https://github.com/minhkhuong2404/minhkhuong2404/pull/9) in [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)<br>
-5. ⬆️ Pushed 2 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)<br>
+1. ⭐ Starred [vladmihalcea/high-performance-java-persistence](https://github.com/vladmihalcea/high-performance-java-persistence)<br>
+2. ⭐ Starred [flutter/flutter](https://github.com/flutter/flutter)<br>
+3. ⬆️ Pushed 9 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
+4. ⭐ Starred [soimort/you-get](https://github.com/soimort/you-get)<br>
+5. 🎉 Merged PR [#9](https://github.com/minhkhuong2404/minhkhuong2404/pull/9) in [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 30th, 2024, 2:16:36 AM
+Last Updated: Sunday, December 1st, 2024, 2:42:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
