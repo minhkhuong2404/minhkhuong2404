@@ -41,7 +41,8 @@
 
 ## LeetCode Problems Solved
 ![Khuong's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/khuonglu1999?theme=dark&bgColor=282828)
-![Khuong's LeetCode Badge](https://luminhkhuong-leetcode-badge-showcase.vercel.app/api?username=khuonglu1999&theme=nightowl&animated=true")
+
+![Khuong's LeetCode Badge](https://luminhkhuong-leetcode-badge-showcase.vercel.app/api?username=khuonglu1999&theme=nightowl&animated=true)
 
 ## Coding Stats
 
