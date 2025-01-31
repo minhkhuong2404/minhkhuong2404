@@ -245,14 +245,10 @@ This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [3b1b/manim](https://github.com/3b1b/manim)<br>
-2. ⭐ Starred [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms)<br>
-3. ⭐ Starred [anonystick/anonystick](https://github.com/anonystick/anonystick)<br>
-4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)<br>
-5. 🔱 Forked [minhkhuong2404/register](https://github.com/minhkhuong2404/register) from [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 30th, 2025, 2:06:57 AM
+Last Updated: Friday, January 31st, 2025, 2:08:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
