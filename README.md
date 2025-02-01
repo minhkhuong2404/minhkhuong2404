@@ -244,11 +244,13 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [3b1b/manim](https://github.com/3b1b/manim)<br>
+1. ⭐ Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)<br>
+2. ⭐ Starred [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)<br>
+3. ⭐ Starred [3b1b/manim](https://github.com/3b1b/manim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 31st, 2025, 2:08:33 AM
+Last Updated: Saturday, February 1st, 2025, 2:12:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
