@@ -248,11 +248,10 @@ This is a list of my most recent activity on GitHub.
 2. ⬆️ Pushed 4 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
 3. ⭐ Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)<br>
 4. ⭐ Starred [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)<br>
-5. ⭐ Starred [3b1b/manim](https://github.com/3b1b/manim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 24th, 2025, 2:15:57 AM
+Last Updated: Tuesday, February 25th, 2025, 2:14:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
