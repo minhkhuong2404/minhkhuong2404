@@ -246,12 +246,10 @@ This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)<br>
 2. ⬆️ Pushed 4 commit(s) to [minhkhuong2404/Discounted-Udemy-Course-Enroller](https://github.com/minhkhuong2404/Discounted-Udemy-Course-Enroller)<br>
-3. ⭐ Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)<br>
-4. ⭐ Starred [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 2nd, 2025, 2:18:56 AM
+Last Updated: Monday, March 3rd, 2025, 2:17:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
