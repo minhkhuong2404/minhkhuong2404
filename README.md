@@ -245,11 +245,10 @@ This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)<br>
-2. ⭐ Starred [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 19th, 2025, 2:18:51 AM
+Last Updated: Thursday, March 20th, 2025, 2:17:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
