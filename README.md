@@ -40,13 +40,10 @@
 </div>
 
 ## LeetCode Problems Solved
-<div align="center">
+<div align="left">
    <img align=top src="https://leetcode-badge-sage.vercel.app/badge/luminhkhuong?theme=dark&bgColor=282828"/>
    <img align=top src="https://luminhkhuong-leetcode-badge-showcase.vercel.app/api?username=luminhkhuong&theme=nightowl&animated=true"/>
 </div>
-
-![Khuong's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/luminhkhuong?theme=dark&bgColor=282828)
-![Khuong's LeetCode Badge](https://luminhkhuong-leetcode-badge-showcase.vercel.app/api?username=luminhkhuong&theme=nightowl&animated=true)
 
 ## Coding Stats
 
