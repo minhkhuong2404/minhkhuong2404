@@ -40,9 +40,13 @@
 </div>
 
 ## LeetCode Problems Solved
-
-![Khuong's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/luminhkhuong?theme=dark&bgColor=282828)
-![Khuong's LeetCode Badge](https://luminhkhuong-leetcode-badge-showcase.vercel.app/api?username=luminhkhuong&theme=nightowl&animated=true)
+<p style="   
+    display: flex;
+    column-gap: 10px;
+">
+   ![Khuong's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/luminhkhuong?theme=dark&bgColor=282828)
+   ![Khuong's LeetCode Badge](https://luminhkhuong-leetcode-badge-showcase.vercel.app/api?username=luminhkhuong&theme=nightowl&animated=true)
+</p>
 
 ## Coding Stats
 
