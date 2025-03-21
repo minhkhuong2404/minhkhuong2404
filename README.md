@@ -40,9 +40,9 @@
 </div>
 
 ## LeetCode Problems Solved
-![Khuong's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/khuonglu1999?theme=dark&bgColor=282828)
+![Khuong's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/luminhkhuong?theme=dark&bgColor=282828)
 
-![Khuong's LeetCode Badge](https://luminhkhuong-leetcode-badge-showcase.vercel.app/api?username=khuonglu1999&theme=nightowl&animated=true)
+![Khuong's LeetCode Badge](https://luminhkhuong-leetcode-badge-showcase.vercel.app/api?username=luminhkhuong&theme=nightowl&animated=true)
 
 ## Coding Stats
 
@@ -278,5 +278,5 @@ Last Updated: Friday, March 21st, 2025, 2:19:26 AM
 [instagram]: https://www.instagram.com/mminhkkhuong/
 [linkedin]: https://www.linkedin.com/in/luminhkhuong/
 [hackerrank]: https://www.hackerrank.com/khuonglu19991?hr_r=1
-[leetcode]: https://leetcode.com/khuonglu1999/
+[leetcode]: https://leetcode.com/luminhkhuong/
 [spotify]: https://open.spotify.com/user/3z3k0v453qbb71sxzcwjagspl?si=Rln3DNmTQZqbQsIZ4iicUw
