@@ -44,8 +44,12 @@
     display: flex;
     column-gap: 10px;
 ">
-   ![Khuong's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/luminhkhuong?theme=dark&bgColor=282828)
-   ![Khuong's LeetCode Badge](https://luminhkhuong-leetcode-badge-showcase.vercel.app/api?username=luminhkhuong&theme=nightowl&animated=true)
+   <div>
+         ![Khuong's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/luminhkhuong?theme=dark&bgColor=282828)
+   </div>
+   <div>
+         ![Khuong's LeetCode Badge](https://luminhkhuong-leetcode-badge-showcase.vercel.app/api?username=luminhkhuong&theme=nightowl&animated=true)
+   </div>
 </p>
 
 ## Coding Stats
