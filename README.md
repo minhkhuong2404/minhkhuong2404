@@ -247,13 +247,10 @@ This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [openai/codex](https://github.com/openai/codex)<br>
 2. ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
-3. ⭐ Starred [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)<br>
-4. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)<br>
-5. ⬆️ Pushed 1 commit(s) to [minhkhuong2404/minhkhuong2404](https://github.com/minhkhuong2404/minhkhuong2404)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 20th, 2025, 2:28:22 AM
+Last Updated: Monday, April 21st, 2025, 2:28:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
