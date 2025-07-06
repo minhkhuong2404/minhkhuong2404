@@ -246,11 +246,10 @@ This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)<br>
-2. ⭐ Starred [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 5th, 2025, 2:38:04 AM
+Last Updated: Sunday, July 6th, 2025, 2:51:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
