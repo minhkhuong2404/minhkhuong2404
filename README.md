@@ -42,6 +42,7 @@
 ## LeetCode Problems Solved
 <div align="left">
    <img align=top src="https://leetcode-badge-sage.vercel.app/badge/luminhkhuong?theme=dark&bgColor=282828"/>
+
    <img align=top src="https://luminhkhuong-leetcode-badge-showcase.vercel.app/api?username=luminhkhuong&theme=nightowl&animated=true"/>
 </div>
 
