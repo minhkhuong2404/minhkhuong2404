@@ -246,12 +246,13 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vietnh1009/QuickDraw](https://github.com/vietnh1009/QuickDraw)<br>
-2. ⭐ Starred [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)<br>
+1. ⭐ Starred [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)<br>
+2. ⭐ Starred [vietnh1009/QuickDraw](https://github.com/vietnh1009/QuickDraw)<br>
+3. ⭐ Starred [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 15th, 2025, 2:46:29 AM
+Last Updated: Saturday, August 16th, 2025, 2:38:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
