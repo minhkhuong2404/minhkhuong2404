@@ -246,11 +246,12 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)<br>
+1. ⭐ Starred [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless)<br>
+2. ⭐ Starred [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 15th, 2025, 2:23:14 AM
+Last Updated: Sunday, November 16th, 2025, 2:43:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
