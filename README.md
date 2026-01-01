@@ -246,12 +246,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iamindian/References_Books](https://github.com/iamindian/References_Books)<br>
-2. ⭐ Starred [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight)<br>
+1. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)<br>
+2. ⭐ Starred [akullpp/awesome-java](https://github.com/akullpp/awesome-java)<br>
+3. ⭐ Starred [apache/kafka](https://github.com/apache/kafka)<br>
+4. ⭐ Starred [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)<br>
+5. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 31st, 2025, 2:49:59 AM
+Last Updated: Thursday, January 1st, 2026, 3:02:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
