@@ -246,15 +246,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)<br>
-2. ⭐ Starred [akullpp/awesome-java](https://github.com/akullpp/awesome-java)<br>
-3. ⭐ Starred [apache/kafka](https://github.com/apache/kafka)<br>
-4. ⭐ Starred [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)<br>
-5. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
+1. ⭐ Starred [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)<br>
+2. ⭐ Starred [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)<br>
+3. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)<br>
+4. ⭐ Starred [akullpp/awesome-java](https://github.com/akullpp/awesome-java)<br>
+5. ⭐ Starred [apache/kafka](https://github.com/apache/kafka)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 17th, 2026, 2:45:24 AM
+Last Updated: Sunday, January 18th, 2026, 3:01:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
