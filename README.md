@@ -248,13 +248,10 @@ This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)<br>
 2. ⭐ Starred [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)<br>
-3. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)<br>
-4. ⭐ Starred [akullpp/awesome-java](https://github.com/akullpp/awesome-java)<br>
-5. ⭐ Starred [apache/kafka](https://github.com/apache/kafka)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 30th, 2026, 3:22:06 AM
+Last Updated: Saturday, January 31st, 2026, 3:13:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
