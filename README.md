@@ -247,12 +247,10 @@ This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
-2. ⭐ Starred [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)<br>
-3. ⭐ Starred [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 16th, 2026, 3:35:04 AM
+Last Updated: Tuesday, February 17th, 2026, 3:30:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
