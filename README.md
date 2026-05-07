@@ -246,15 +246,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)<br>
-2. ⭐ Starred [snehasishroy/leetcode-companywise-interview-questions](https://github.com/snehasishroy/leetcode-companywise-interview-questions)<br>
-3. ⭐ Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)<br>
-4. ⭐ Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)<br>
-5. ⭐ Starred [liquidslr/interview-company-wise-problems](https://github.com/liquidslr/interview-company-wise-problems)<br>
+1. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+2. ⭐ Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)<br>
+3. ⭐ Starred [snehasishroy/leetcode-companywise-interview-questions](https://github.com/snehasishroy/leetcode-companywise-interview-questions)<br>
+4. ⭐ Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)<br>
+5. ⭐ Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 6th, 2026, 4:28:40 AM
+Last Updated: Thursday, May 7th, 2026, 4:29:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
