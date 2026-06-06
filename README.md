@@ -250,11 +250,10 @@ This is a list of my most recent activity on GitHub.
 2. ⭐ Starred [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)<br>
 3. ⭐ Starred [anhtester/antigravity-testing-kit](https://github.com/anhtester/antigravity-testing-kit)<br>
 4. ⭐ Starred [decolua/9router](https://github.com/decolua/9router)<br>
-5. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 5th, 2026, 5:09:11 AM
+Last Updated: Saturday, June 6th, 2026, 4:45:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
