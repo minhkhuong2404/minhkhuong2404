@@ -249,11 +249,10 @@ This is a list of my most recent activity on GitHub.
 1. ⭐ Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)<br>
 2. ⭐ Starred [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)<br>
 3. ⭐ Starred [anhtester/antigravity-testing-kit](https://github.com/anhtester/antigravity-testing-kit)<br>
-4. ⭐ Starred [decolua/9router](https://github.com/decolua/9router)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 9th, 2026, 4:57:28 AM
+Last Updated: Wednesday, June 10th, 2026, 5:09:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
