@@ -246,12 +246,13 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)<br>
-2. ⭐ Starred [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)<br>
+1. ⭐ Starred [thanglequoc/vietnamese-provinces-database](https://github.com/thanglequoc/vietnamese-provinces-database)<br>
+2. ⭐ Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)<br>
+3. ⭐ Starred [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 25th, 2026, 4:56:16 AM
+Last Updated: Friday, June 26th, 2026, 5:02:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
