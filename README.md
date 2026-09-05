@@ -249,12 +249,12 @@ This is a list of my most recent activity on GitHub.
 1. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
 2. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
 3. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
-4. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
-5. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
+4. 💬 Commented on [#26](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template/pull/26#issuecomment-5543576676) in [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
+5. ❌ Closed PR [#25](undefined) in [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 4th, 2026, 5:14:10 AM
+Last Updated: Saturday, September 5th, 2026, 5:03:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
