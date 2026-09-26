@@ -247,14 +247,14 @@ This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
-2. ⭐ Starred [google/ax](https://github.com/google/ax)<br>
-3. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
+2. ✌️ Released [Clean up UI](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template/releases/tag/v4.1) in [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
+3. ❌ Closed PR [#30](undefined) in [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
 4. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
-5. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
+5. ❌ Closed PR [#27](undefined) in [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 25th, 2026, 5:36:20 AM
+Last Updated: Saturday, September 26th, 2026, 5:41:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
