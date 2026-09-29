@@ -81,7 +81,7 @@
 
 ### Spotify Playing 🎧 :notes: :musical_note:
 
-[![Spotify](https://novatorem.minhkhuong2404.vercel.app/api/spotify)](https://open.spotify.com/user/3z3k0v453qbb71sxzcwjagspl)
+[![Spotify](https://novatorem-minhkhuong2404s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/3z3k0v453qbb71sxzcwjagspl)
 
 ### Connect with me: ❤️❤️❤️
 
