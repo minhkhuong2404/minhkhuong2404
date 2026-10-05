@@ -249,12 +249,12 @@ This is a list of my most recent activity on GitHub.
 1. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
 2. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
 3. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
-4. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)<br>
+4. ⭐ Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)<br>
 5. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 4th, 2026, 6:31:10 AM
+Last Updated: Monday, October 5th, 2026, 6:24:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
