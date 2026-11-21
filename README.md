@@ -246,15 +246,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
-2. ⬆️ Pushed undefined commit(s) to [luminhkhuong/knowledge-base](https://github.com/luminhkhuong/knowledge-base)<br>
+1. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
+2. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
 3. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
-4. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
-5. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
+4. ⬆️ Pushed undefined commit(s) to [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
+5. 👍 Approved [#49](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template/pull/49#pullrequestreview-6003443102) in [minhkhuong2404/docusaurus-knowledge-base-template](https://github.com/minhkhuong2404/docusaurus-knowledge-base-template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 20th, 2026, 7:53:14 AM
+Last Updated: Saturday, November 21st, 2026, 7:51:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### My contributions 🥰 🥰
